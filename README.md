@@ -25,3 +25,26 @@ Hey there! I'm Ronit Paikray, a passionate developer with a keen interest in cyb
 [![](https://visitcount.itsvg.in/api?id=Ronit-paikray&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🔗 Connect with Me
+
+
+
+
+
+GitHub: ronitpaikray
+
+
+
+LinkedIn: Ronit Paikray
+
+
+
+Instagram: @mister_i_777
+
+
+
+Email: ronitpaiktray6@gmail.com
+
+
+
+“Building technology that empowers, educates, and secures the future, one project at a time.”
