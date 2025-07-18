@@ -127,7 +127,7 @@ Hello! I'm Ronit Paikray, a passionate tech enthusiast pursuing a Diploma in Com
 ---
 
 ## 🔗 Connect with Me
-- **GitHub**: [ronitpaikray](https://github.com/ronitpaikray)  
+- **GitHub**: [Ronit-paikray](https://github.com/Ronit-paikray)  
 - **LinkedIn**: [Ronit Paikray](https://www.linkedin.com/in/ronit-paikray)  
 - **Instagram**: [@mister_i_777](https://www.instagram.com/mister_i_777)  
 - **Email**: [ronitpaiktray6@gmail.com](mailto:ronitpaiktray6@gmail.com)
