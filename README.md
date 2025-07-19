@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Ronit Paikray
 
-**Computer Science & Engineering Diploma Student | IoT & Cybersecurity Enthusiast | Odisha, India**
+**Computer Science & Engineering Diploma Student | IoT & Cybersecurity Enthusiast | Bhubaneswar, Odisha, India**
 
 Hello! I'm Ronit Paikray, a passionate tech enthusiast pursuing a Diploma in Computer Science & Engineering at CUTM BBSR Jatani (2022–2025). I specialize in IoT, cybersecurity, and software development, with a mission to make technology accessible and secure for everyone. I enjoy building innovative projects, mentoring students, and promoting digital literacy through practical tools and education.
 
